@@ -1,2 +1,2 @@
 # java-course
-Estudo Java com base no Curso do Udemy
+Estudo Java com base no Curso da Udemy
