@@ -16,7 +16,7 @@ public class Program {
 		OrderStatus orderStatus1 = OrderStatus.valueOf("PENDING_PAYMENT");
 		OrderStatus orderStatus2 = OrderStatus.PENDING_PAYMENT;
 		
-		System.out.println(orderStatus1);
+		System.out.println(orderStatus1); 
 		System.out.println(orderStatus2);
 	}
 
